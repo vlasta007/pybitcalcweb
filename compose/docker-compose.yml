@@ -1,4 +1,4 @@
-version: '2'
+version: '2.1'
 services:
   app:
     container_name: bitcalc_app
